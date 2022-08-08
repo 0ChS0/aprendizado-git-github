@@ -1,0 +1,6 @@
+Para fazermos a instalação do GIT temos que fazer o uso de um terminal, estando no Windows, podemos usar ou o WSL ou o GIT Bash
+
+Finalizando a instalação do terminal(no caso do Windows), fazemos a instalação do git no site do GIT pelo código exibido no site do https://git-scm.com/downloads
+
+Ao iniciarmos o git fazemos a configuração do nome e email pelo código: $ git config --global user.name "Fulano de Tal"
+                                                                        $ git config --global user.email fulanodetal@exemplo.br
