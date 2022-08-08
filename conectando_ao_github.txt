@@ -1,0 +1,5 @@
+Para conectarmos ao Github, vamos entrar em um repositório local git, e no Github criamos um repositório e copiamos a url
+
+No terminal, usamos o comando: git pull origin [URL]
+
+Após fazermos todas as alterações, para mandarmos para o Github, usamos o comando: git push [URL]
