@@ -1,0 +1,8 @@
+Para criarmos uma nova branch, temos que usar o código: git branch [Nome arquivo]
+
+Nessa nova ramificação, podems fazer alterações que não afetam a branch principal, podendo ser tanto a master ou a main
+
+para fazermos a troca das branchs, usamos o comando: git checkout [Nome da branch]
+
+e para implementarmos as alterações da branch para a branch principal, usamos o comando: git checkout master
+                                                                                         git merge iss53
